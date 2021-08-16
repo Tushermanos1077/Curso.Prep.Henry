@@ -1,0 +1,20 @@
+1.-Variables.-
+
+	Son expresión que se le puede asignar una strin o number.
+2.-Instrumentos de cuerda.-
+
+	.js es una serie de letras unos a otros que van entre comillas.
+
+3.-Funciones (argumentos, return).-
+
+	Argumentos.- Son un conjunto de expresiones para pasar información a las funciones.
+	Return.-     Es para forzar la detención fusión o para devolver la información.
+
+4.-Declaraciones if.-
+
+	if.- para determinar o cumplir una expresión.
+
+5.-Valores booleanos ( true, false).-
+	
+	true.- Si se cumple la expresión true (verdadero).
+	false.- Si no cumple la expresión false (falso).
