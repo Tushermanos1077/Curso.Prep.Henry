@@ -1,0 +1,4 @@
+for.- Para crear bucles hasta afirmar la condición usando una expresión inicial y la misma expresión aumento hasta confirmar la condición.
+&&.-  Es operado lógico (preposicional) compara  la primera empresiones1 && (AND o Y) con la segunda expresion2, según la tabla de verdad.
+||.-  Es operado lógico (preposicional) compara  la primera empresiones1 || (ORD o O) con la segunda expresion2, según la tabla de verdad.
+ !.-  Es operado lógico (preposicional) es la negación de las expresiones.
