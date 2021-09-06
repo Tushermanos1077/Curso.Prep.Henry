@@ -1,0 +1,5 @@
+        * Objetos.-Son para representas con mas accesivilidad a un grupo de informacion.
+	* Propiedades.- Es lo que agrupa y forman los objetos para su funcionamiento.
+	* Métodos.- Son las funciones que estan dentro de un objeto.
+	* Bucle `for…in`.- muestra la posicion de las propiedades.
+	* Notación de puntos vs notación de corchetes..-Son practimente lo mismo relizan el mismo proceso.
