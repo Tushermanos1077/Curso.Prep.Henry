@@ -1,2 +1,0 @@
-prototype.- Es agregar una propiedad(funciones o metodos) especial al crear otrp objeto al objeto.+
-Constructores (de Clases)..-Se va formando el objeto en clases con las proiedades y los argumetos que cuando de lo llame emita un resultado.
